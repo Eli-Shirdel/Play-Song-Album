@@ -1,0 +1,45 @@
+body{
+    background-color: #561050;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70%;
+}
+h1{
+    color: #E9B5D2;
+}
+.songs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+}
+img{
+    max-width: 100%;
+}
+.album{
+    padding: 5%;
+}
+.cover:hover{ 
+    margin-top: -10px;
+    box-shadow: 3px 3px 6px 5px #35013F;
+}
+.icon{
+    position: absolute;
+    margin-left: -9%;
+    margin-top: 3%;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
