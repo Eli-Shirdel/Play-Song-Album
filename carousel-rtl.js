@@ -35,9 +35,7 @@
 
     this.options.pause == 'hover' && this.$element
       .on('mouseenter', $.proxy(this.pause, this))
-      .on('mouseleave', $.proxy(this.cycle, this))
-  }
-
+  
   Carousel.DEFAULTS = {
     interval: 5000
   , pause: 'hover'
