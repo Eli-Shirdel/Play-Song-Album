@@ -14,12 +14,6 @@ function signUpFunc(){
 
 
 
-function SignUpFunc(){
-   SignInForm.style.display="none";
-   SignUpForm.style.display="block";
-}
-
-
 
 
 
