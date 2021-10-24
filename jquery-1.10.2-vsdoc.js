@@ -8,9 +8,7 @@
 */
 
 /*!
-* jQuery JavaScript Library v1.10.2
-* http://jquery.com/
-*
+* jQuery JavaScript Library v1.
 * Includes Sizzle.js
 * http://sizzlejs.com/
 *
