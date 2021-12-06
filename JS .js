@@ -1,15 +1,3 @@
-var $ = document;
-
-var SignInForm = $.getElementById('SignInForm');
-
-var signUpForm = $.getElementById('SignUpForm');
-
-
-
-function signUpFunc(){
-   SignUpForm.style.display="none";
-   SignInForm.style.display="block";
-}
 
 
 
