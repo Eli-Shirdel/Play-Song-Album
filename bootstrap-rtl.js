@@ -11,7 +11,7 @@ if (!jQuery) { throw new  language governing permissions and
 +function ($) { "use strict";
 
   // BUTTON PUBLIC CLASS DEFINITION
-  // ==============================
+  // 
 
   var Button = function (element, options) {
     this.$element = $(element)
