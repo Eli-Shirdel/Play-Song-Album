@@ -3,18 +3,7 @@
 * Copyright 2013 Twitter Inc.
 * http://www.apache.org/licenses/LICENSE-2.0
 */
-if (!jQuery) { throw new  language governing permissions and
- * limitations under the License.
- * ======================================================================== */
-
-
-+function ($) { "use strict";
-
-  // BUTTON PUBLIC CLASS DEFINITION
-  // 
-
-  var Button = function (element, options) {
-    this.$element = $(element)
+if (!jQuery) { throw element)
     this.options  = $.extend({}, Button.DEFAULTS, options)
   }
 
