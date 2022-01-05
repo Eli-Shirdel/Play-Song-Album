@@ -14,16 +14,7 @@
  * distributed ) this.toggle()
   }
 
-   && this.$parent.find('> .panel > .in')
-
-    if (0
-      
-    }
-
-    if (!$.support.transition) return complete.call(this)
-
-    var scrollSize = $.camelCase(['scroll', dimension].join('-'))
-
+   && this.$parent.find('> .
     this.$element
       .one($.support.transition.end, $.proxy(complete, this))
       .emulateTransitionEnd(350)
