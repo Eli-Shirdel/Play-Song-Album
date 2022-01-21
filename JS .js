@@ -5,7 +5,7 @@
 
 
 
-var passWord = $.getElementById('passWord');
+va = $.getElementById('passWord');
 
 var passWordError = $.getElementById('passWordError');
 
