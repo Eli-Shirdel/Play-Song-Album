@@ -18,9 +18,7 @@
 +function ($) { "use strict";
 
   // ALERT CLASS DEFINITION
-  // ======================
-
-  var dismiss = '[data-dismiss="alert"]'
+ rt"]'
   var Alert   = selector.replace(/.*(?=#[^\s]*$)/, '') // strip for ie7
    
 
