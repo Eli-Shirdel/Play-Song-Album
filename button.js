@@ -1,6 +1,6 @@
 /* ========================================================================
  * Bootstrap: button.js v3.0.0
- * http://twbs.github.com/bootstrap/javascript.html#buttons
+ * 
  * ========================================================================
  
  * http://www.apache.org/licenses/LICENSE-2.0
