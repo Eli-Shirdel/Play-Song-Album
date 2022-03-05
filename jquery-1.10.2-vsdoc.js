@@ -1,20 +1,4 @@
-/*
-* This file has been generated to support Visual Studio IntelliSense.
-* You should not use this file at runtime inside the browser--it is only
-* intended to be used only for design-time IntelliSense.  Please use the
-* standard jQuery library for all runtime use.
-*
-* Comment version: 1.10.2
-*/
-
-/*!
-* jQuery JavaScript Library v1.
-* Includes Sizzle.js
-* http://sizzlejs.com/
-*
-* Copyright 2005, 2012 jQuery Foundation, Inc. and other contributors
-* Released under the MIT license
-* http://jquery.org/license
+/
 *
 */
 
