@@ -1,7 +1,7 @@
 /* ========================================================================
  * Bootstrap: collapse.js v3.0.0
  * 
- * ========================================================================
+ * 
  * Copyright 2012 Twitter, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
