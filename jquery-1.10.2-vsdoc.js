@@ -1,17 +1,4 @@
-/
-*
-*/
-
-(function ( window, undefined ) {
-var jQuery = function( selector, context ) {
-/// <summary>
-///     1: Accepts a string containing a CSS selector which is then used to match a set of elements.
-///     &#10;    1.1 - $(selector, context) 
-///     &#10;    1.2 - $(element) 
-///     &#10;    1.3 - $(object) 
-///     &#10;    1.4 - $(elementArray) 
-///     &#10;    1.5 - $(jQuery object) 
-///     &#10;    1.6 - $()
+/#10;    1.6 - $()
 ///     &#10;2: Creates DOM elements on the fly from the provided string of raw HTML.
 ///     &#10;    2.1 - $(html, ownerDocument) 
 ///     &#10;    2.2 - $(html, props)
