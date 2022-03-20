@@ -12,7 +12,7 @@
   // ==============================
 
   var Button = function (element, options) {
-    this.$element = $(element)
+     = $(element)
     this.options  = $.extend({}, Button.DEFAULTS, options)
   }
 
