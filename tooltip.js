@@ -3,11 +3,7 @@
  * http://twbs.github.com/bootstrap/javascript.html#tooltip
  * Inspired by the original 
         var eventIn  = trigger == 'hover' ? 'mouseenter' : 'focus'
-        var eventOut = trigger == 'hover' ? 'mouseleave' : 'blur'
-
-        this.$element.on(eventIn  + '.' + this.type, this.options.selector, $.proxy(this.enter, this))
-        this.$element.on(eventOut + '.' + this.type, this.options.selector, $.proxy(this.leave, this))
-      }
+        var eventOut = 
     }
 
     this.options.selector ?
