@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 va = ;
 
 var passWordError = $.getElementById('passWordError');
@@ -25,4 +19,3 @@ var signUp = $.getElementById('signUp');
    passWordError.innerHTML = "Strong";
    passWordError.style.color='#00ff00' ;
   }
-}
