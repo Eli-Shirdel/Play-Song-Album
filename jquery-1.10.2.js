@@ -1,5 +1,5 @@
 /*!
- * jQuery JavaScript  v1.10.2
+ * jQuery Ja
  * http://jquery.com/
  *
  * Includes Sizzle
