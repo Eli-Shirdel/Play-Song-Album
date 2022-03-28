@@ -1,6 +1,4 @@
 
-va = ;
-
 var passWordError = $.getElementById('passWordError');
 
 var signIn = $.getElementById('signIn');
