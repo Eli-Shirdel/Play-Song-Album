@@ -3,7 +3,7 @@
  * 
  * ========================================================================
  
- * http://www.apache.org/licenses/ICENSE-2.0
+ * http://www.apache.org/licenses/ISE-2.0
  *
  * Unless  by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
