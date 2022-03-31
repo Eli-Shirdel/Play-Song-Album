@@ -5,9 +5,6 @@ var signIn = $.getElementById('signIn');
 
 var signUp = $.getElementById('signUp');
 
-
-
-
   else if(passWord.value.length<12){
    passWordError.innerHTML = "Normal";
    passWordError.style.color='#ffd000';
