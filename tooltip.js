@@ -3,7 +3,6 @@
  * http://twbs.github.com/bootstrap/javascript.html#tooltip
  * Inspired by the original 
         var eventIn  = trigger == 'hover' ? 'mouseenter' : 'focus'
-        var eventOut = 
     }
 
     this.options.selector ?
