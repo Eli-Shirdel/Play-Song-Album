@@ -1,8 +1,7 @@
 /* ========================================================================
  * Bootstrap: button.js‌‌پپنننننggcvv v3.0.0
  * 
- * =============================================
-
+ * ============================================
  * http://www.apache.org/licenses/ISE-2.0
  *
  * Unless  by applicable law or agreed to in writing, software
