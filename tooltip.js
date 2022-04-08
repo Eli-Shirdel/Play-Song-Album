@@ -3,7 +3,7 @@
  * http://twbs.github.com/bootstrap/javascript.html#tooltip
  * Inspired by the original 
         var eventIn  = trigger == 'hover' ? 'mouseenter' : 'focus'
-    }
+   
 
     this.options.selector ?
       (this._options = $.extend({}, this.options, { trigger: 'manual', selector: '' })) :
