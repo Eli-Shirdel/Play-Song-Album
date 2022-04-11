@@ -9,7 +9,6 @@
       (this._options = $.extend({}, this.options, { trigger: 'manual', selector: '' })) :
       this.fixTitle()
   }
-
   Tooltip.prototype.getDefaults = function () {
     return Tooltip.DEFAULTS
   }
