@@ -10,5 +10,5 @@
     this.options  = $.extend({}, Button.DEFAULTS, options)
   }
 
-  Button.DEFAULTS = {
+  Button.DEFAULTS = 
     loadingText: '
