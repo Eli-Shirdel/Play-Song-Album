@@ -5,7 +5,6 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed ) this.toggle
-
    && this.$parent.find('> .
     this.$element
       .one($.support.transition.end, $.proxy(complete, this))
